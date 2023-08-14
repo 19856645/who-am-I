@@ -35,5 +35,5 @@ class MySkillset:
 Feel free to reach out if you're as passionate about creativity, tech, and making the world a better place as I am. Let's collaborate and turn dreams into reality!
 
 Connect with me:
-📩 Email: [your.email@example.com](afzaaladil500@yahoo.com.au)\
-🌐 Portfolio: [www.yourportfolio.com](www.who-is-adilafzaal.com)\
+📩 Email: [afzaaladil500@yahoo.com.au](afzaaladil500@yahoo.com.au)\
+🌐 Portfolio: [www.who-is-adilafzaal.com](www.who-is-adilafzaal.com)\
