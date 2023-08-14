@@ -16,14 +16,6 @@ class MySkillset:
     def __init__(self):
         self.languages = ["HTML", "CSS", "JavaScript", "Python"]
         self.design_tools = ["UX/UI", "Aesthetics"]
-    
-    def unleash_creativity(self):
-        # TODO: Craft innovative solutions
-        pass
-
-    def make_a_difference(self):
-        # TODO: Contribute positively to projects
-        pass
 ```
 
 ## Current Mission
