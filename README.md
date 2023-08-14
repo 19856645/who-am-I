@@ -3,6 +3,10 @@
 
 I'm on a quest to unravel the mysteries of technology and creativity, one line of code and one brushstroke at a time. If there's a word that defines me, it's **curious**. I'm that student who's never done learning and that creative soul who's always wondering "why" and "how". 
 
+
+https://github.com/19856645/who-am-I/assets/140569261/c53ffe81-ef37-4bde-ad31-042d0bf0e614
+
+
 ## About Me
 
 - 🎓 Lifelong Learner, forever in pursuit of knowledge
